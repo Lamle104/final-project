@@ -1,16 +1,16 @@
-**Please change the Title of this issue to include your username, something like: halfaro1's Final Project Proposal. When you've done that, you can remove this line and fill in the rest of the body of this issue below.**
+halfaro1's Final Project Proposal
 
 ### Name
-What's your real name? Enter your first and last name in place of this text, please.
+Lam Le
 
 ### Proposed Project Description
-Give a detailed description of what you'd like to do for your final project (5+ sentences). Feel free to replace this text with your description.
+Something that I would like to do for my final project would be a reminder of the birthdays of my best friends and what I plan on getting them. This program tells me the names and dates of my best friends. It also includes what I plan on getting them on their birthdays. The program limits the program to ONLY remember birthdays/gifts while its running. If their birthdays aren't in the database then the user can enter the date.
 
 ### Connecting Concepts
-What chapters/topics will this project allow you to practice? A good final project will cover at least 2 distinct topics from class.
+Chapter 2 flow control and chapter 5 dictionaries.
 
 ### Timing
-How long do you think this project will take to implement? Feel free to give a brief timeline of tasks you'd like to accomplish with dates.
+Project may take a few hours or a day.
 
 ### Asking for...
-What kind of feedback can your classmates and professor provide to help you be successful?
+Some ways to better the program or any feedback is fine.
